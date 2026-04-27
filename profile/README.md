@@ -15,5 +15,5 @@ We help businesses automate operations with AI by first identifying root problem
 ## Get in touch
 
 - Website: [www.atab.ai](https://www.atab.ai)
-- LinkedIn: [Atab Group](https://www.linkedin.com/company/atab-ai)
+- LinkedIn: [Atab Group](https://www.linkedin.com/company/atab-consulting)
 - Email: [info@atab.ai](mailto:info@atab.ai)
